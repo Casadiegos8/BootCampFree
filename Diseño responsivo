@@ -1,0 +1,58 @@
+3. Diseño Responsivo
+
+Medias Queries:
+@media (max-width: 600px) {
+  .contenedor {
+    flex-direction: column;
+  }
+}
+@media: Regla para aplicar estilos según las características del dispositivo.
+max-width: Aplica estilos si el ancho de la pantalla es menor que el valor especificado.
+4. Mejores Prácticas en HTML y CSS
+
+Organización del Código:
+Uso de etiquetas semánticas (<header>, <footer>, <article>, <section>).
+Comentarios claros y concisos en el código.
+Accesibilidad:
+Uso de atributos alt en imágenes.
+Etiquetas label asociadas a campos de formulario.
+SEO Básico:
+Uso adecuado de etiquetas de encabezado (<h1> a <h6>).
+Metaetiquetas (<meta>).
+Actividades Prácticas y Ejercicios:
+
+Ejercicio 1: Crear una página web básica que incluya una variedad de elementos HTML y CSS.
+Ejercicio 2: Implementar un formulario de contacto con campos de entrada y validación básica.
+Ejercicio 3: Diseñar una tabla con datos ficticios y aplicarle estilos CSS.
+Ejercicio 4: Crear un diseño responsivo usando Flexbox y Grid, y aplicar medias queries.
+Ejercicio 5: Mejorar la accesibilidad y SEO de una página web existente.
+Ejercicios Adicionales y Recursos
+1. Ejercicios de HTML y CSS:
+
+Crear una tarjeta de perfil usando HTML y CSS.
+Diseñar un menú de navegación horizontal y vertical.
+Crear un diseño de galería de imágenes utilizando Grid.
+2. Lecturas Recomendadas:
+
+"HTML and CSS: Design and Build Websites" por Jon Duckett.
+"Responsive Web Design with HTML5 and CSS3" por Ben Frain. 3. Herramientas y Recursos en Línea:
+MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web
+W3Schools: https://www.w3schools.com/
+CSS-Tricks: https://css-tricks.com/
+Objetivo: Aplicar los conocimientos adquiridos en HTML y CSS para crear una página web estática, implementar estilos y diseño responsivo.
+
+Contenido Detallado:
+1. Planificación del Proyecto
+
+a. Definición del Proyecto:
+
+Objetivo del Proyecto: Crear una página web estática para un sitio de portafolio personal.
+Estructura del Proyecto: Definir las secciones de la página:
+Header: Título y menú de navegación.
+About: Información personal y biografía.
+Portfolio: Galería de proyectos.
+Contact: Formulario de contacto.
+b. Boceto y Diseño:
+
+Crear un boceto en papel o utilizando herramientas de diseño como Figma o Adobe XD.
+Definir el esquema de colores y la tipografía.
