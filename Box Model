@@ -1,0 +1,47 @@
+. Modelo de Caja (Box Model)
+
+Propiedades del Modelo de Caja:
+.caja {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+}
+width, height: Tamaño de la caja.
+margin: Espacio exterior de la caja.
+padding: Espacio interior de la caja.
+border: Borde de la caja.
+Flexbox y Grid para Diseño Responsivo
+
+c. Flexbox y Grid para Diseño Responsivo
+
+Flexbox:
+
+.contenedor {
+  display: flex;
+  justify-content: space-around;
+}
+
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+}
+display: flex: Define un contenedor flexible.
+justify-content: Alinea los elementos a lo largo del eje principal.
+Grid:
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+}
+
+.grid-item {
+  background-color: lightgreen;
+  padding: 20px;
+}
+display: grid: Define un contenedor de cuadrícula.
+grid-template-columns: Define el número y tamaño de las columnas.
+gap: Espacio entre los elementos de la cuadrícula.
