@@ -1,0 +1,51 @@
+c. Formularios y Tablas
+
+Formularios:
+<form action="/submit">
+  <label for="nombre">Nombre:</label>
+  <input type="text" id="nombre" name="nombre"><br><br>
+  <input type="submit" value="Enviar">
+</form>
+<form>: Define un formulario.
+<label>: Etiqueta para un control de formulario.
+<input>: Campo de entrada.
+type: Atributo que especifica el tipo de control de entrada.
+Tablas:
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Edad</th>
+  </tr>
+  <tr>
+    <td>Ana</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>Juan</td>
+    <td>30</td>
+  </tr>
+</table>
+<table>: Define una tabla.
+<tr>: Define una fila de la tabla.
+<th>: Define una celda de encabezado.
+<td>: Define una celda de datos.
+Conceptos Básicos de CSS
+
+2. Conceptos Básicos de CSS: a. Selectores y Propiedades CSS
+
+Selectores:
+
+p {
+  color: blue;
+}
+
+.clase {
+  font-size: 20px;
+}
+
+#identificador {
+  margin: 10px;
+}
+Selectores de tipo (p), clase (.clase), e ID (#identificador).
+Propiedades CSS:
+color, font-size, margin, padding, border.
