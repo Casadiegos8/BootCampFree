@@ -1,0 +1,38 @@
+Conceptos basicos de html 
+Conceptos Básicos de HTML: a. Estructura de un Documento HTML**
+Doctype:
+<!DOCTYPE html>
+Define el tipo de documento y la versión de HTML.
+Elementos Básicos:
+<html>
+  <head>
+    <title>Título de la Página</title>
+  </head>
+  <body>
+    <h1>Encabezado Principal</h1>
+    <p>Este es un párrafo de ejemplo.</p>
+  </body>
+</html>
+<html>: Elemento raíz del documento.
+<head>: Contiene metadatos y enlaces a recursos externos.
+<title>: Define el título de la página en la barra del navegador.
+<body>: Contiene el contenido visible de la página.
+b. Elementos y Etiquetas HTML
+
+Encabezados:
+<h1>Encabezado 1</h1>
+<h2>Encabezado 2</h2>
+<h3>Encabezado 3</h3>
+<h1> a <h6>: Define niveles de encabezados, siendo <h1> el más importante.
+Párrafos:
+<p>Este es un párrafo de texto.</p>
+<p>: Define un párrafo.
+Enlaces:
+<a href="https://www.ejemplo.com">Visitar Ejemplo</a>
+<a>: Define un hipervínculo.
+href: Atributo que especifica la URL del enlace.
+Imágenes:
+<img src="imagen.jpg" alt="Descripción de la imagen">
+<img>: Inserta una imagen.
+src: Atributo que especifica la ruta de la imagen.
+alt: Atributo que proporciona texto alternativo para la imagen.
